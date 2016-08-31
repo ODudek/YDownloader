@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "YDownloader", "YDownloader\YDownloader.csproj", "{56D1ED7C-14FA-4571-A3B7-F70E92022859}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "YDownloader_Setup", "YDownloader_Setup\YDownloader_Setup.vdproj", "{69422CB5-DA43-4D30-8C54-192A0A9DB5D8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|x86 = Debug|x86
+		Release|Any CPU = Release|Any CPU
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{56D1ED7C-14FA-4571-A3B7-F70E92022859}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{56D1ED7C-14FA-4571-A3B7-F70E92022859}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{56D1ED7C-14FA-4571-A3B7-F70E92022859}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{56D1ED7C-14FA-4571-A3B7-F70E92022859}.Debug|x86.Build.0 = Debug|Any CPU
+		{56D1ED7C-14FA-4571-A3B7-F70E92022859}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{56D1ED7C-14FA-4571-A3B7-F70E92022859}.Release|Any CPU.Build.0 = Release|Any CPU
+		{56D1ED7C-14FA-4571-A3B7-F70E92022859}.Release|x86.ActiveCfg = Release|Any CPU
+		{56D1ED7C-14FA-4571-A3B7-F70E92022859}.Release|x86.Build.0 = Release|Any CPU
+		{69422CB5-DA43-4D30-8C54-192A0A9DB5D8}.Debug|Any CPU.ActiveCfg = Debug
+		{69422CB5-DA43-4D30-8C54-192A0A9DB5D8}.Debug|x86.ActiveCfg = Debug
+		{69422CB5-DA43-4D30-8C54-192A0A9DB5D8}.Release|Any CPU.ActiveCfg = Release
+		{69422CB5-DA43-4D30-8C54-192A0A9DB5D8}.Release|x86.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
