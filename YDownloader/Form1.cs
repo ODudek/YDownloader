@@ -103,11 +103,12 @@ namespace YDownloader
         {
             if (folderBrowserDialog1.ShowDialog() == DialogResult.OK)
             {
-                miejsce = folderBrowserDialog1.SelectedPath;
-                
+                miejsce = folderBrowserDialog1.SelectedPath +@"\";
+                label3.Text = folderBrowserDialog1.SelectedPath;
                 mp3.Enabled = true;
                 mp4.Enabled = true;
             }
         }
+
     }
 }
